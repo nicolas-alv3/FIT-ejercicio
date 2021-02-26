@@ -1,0 +1,5 @@
+@import './theme.css';
+
+.navbar {
+    background:var(--navbar-color) !important
+}
